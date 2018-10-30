@@ -1,1 +1,4 @@
-# Java1
+var str =  " abcde " ;
+  alert ( ' a ' );
+  alert ( ' b ' );
+  alert ( ' e ' );
